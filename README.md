@@ -65,3 +65,6 @@ Pressione reset no ESP12 e espere a placa se conectar à sua rede. Ele gravará 
 Copie esse IP e cole em um bloco de notas pois precisaremos inserir esse IP no Unity.
 Vá esse link no Github, baixe e abra este projeto no Unity:
 https://github.com/MatthewHallberg/AR_Robot
+
+#### Agradecimentos ao Matthew Hallberg por disponibilizar o código fonte do projeto.
+https://github.com/MatthewHallberg
