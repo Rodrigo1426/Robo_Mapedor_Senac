@@ -1,4 +1,4 @@
-# Robo_Mapedor_Senac
+# Robo Mapeador Senac Tatuapé
 Integrantes do grupo:
 Rodrigo Mulinário Ramos: A
 
