@@ -8,7 +8,7 @@ Victor Alves Barbosa: PA
 
 Wagner Bento Santo: PA
 
-##### Este robô utiliza um módulo de Arduino MCU Node ESP-8266 que se comunica com um telefone celular por wifi. O telefone executa um aplicativo criado na engine Unity 3D e é possível fazer 3 coisas:
+### Este robô utiliza um módulo de Arduino MCU Node ESP-8266 que se comunica com um telefone celular por wifi. O telefone executa um aplicativo criado na engine Unity 3D e é possível fazer 3 coisas:
 
 1.)	A primeira cena permite que você dirija o robô com um smartphone acoplado ao chassi, se comunicando com o computador. Você pode usar as setas do teclado para dirigir em qualquer direção e o feed de vídeo permite que você continue dirigindo mesmo quando o robô está fora de vista.
 
