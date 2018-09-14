@@ -22,17 +22,28 @@ Wagner Bento Santo: PA
  
 1.)	ESP-8266 Node MCU;
 
+![esp](https://user-images.githubusercontent.com/43183325/45571726-91986680-b83d-11e8-8a9e-ec4e393f15b1.png)
+
 2.)	L298N Motor Driver;
+
+![l298](https://user-images.githubusercontent.com/43183325/45571742-9eb55580-b83d-11e8-8122-7eb2b8e6ca55.png)
 
 3.) Fios de Arduino;
 
+![fio](https://user-images.githubusercontent.com/43183325/45571730-9826de00-b83d-11e8-94e4-933b742c627c.png)
+
 4.)	2 chassis de robô, 4 rodas, dois compartimentos de 4 pilhas
+
+![chassi](https://user-images.githubusercontent.com/43183325/45571760-ab39ae00-b83d-11e8-8117-15a050947fc8.png)
+
 
 ## Passo 1: Fazendo as conexões!
 
 Para conectar os motores e a placa Arduino, usaremos uma ponte H dupla L298N, esse módulo permite girar os motores em diferentes direções.
 Esse módulo tem um “input” de até 12 volts e tem um regulador de tensão que gera um “output” de 5V.
 Conecte tudo de acordo com o diagrama abaixo.
+
+![mapping_room_bb](https://user-images.githubusercontent.com/43183325/45571590-159e1e80-b83d-11e8-8788-20402695dafe.png)
  
 ## Passo 2: montado o robô!
 
@@ -41,7 +52,7 @@ Coloque os 2 compartilhamentos de pilha em cada lado do chassi, também fixos co
 Coloque os motores e as rodas conforme o manual.
 Fixe seu celular na parte de cima do 2° chassi com um enforca gato, ou com um tripé
 
-![mapping_room_bb](https://user-images.githubusercontent.com/43183325/45571590-159e1e80-b83d-11e8-8788-20402695dafe.png)
+robo ![robo](https://user-images.githubusercontent.com/43183325/45571751-a412a000-b83d-11e8-82ce-0ccd0aca1d6a.png)
 
 ## Passo 3: copie e cole o código AR_Arduino (encontrado no repositório)!
 
