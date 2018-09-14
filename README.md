@@ -54,7 +54,8 @@ Fixe seu celular na parte de cima do 2° chassi com um enforca gato, ou com um t
 
  ![robo](https://user-images.githubusercontent.com/43183325/45571751-a412a000-b83d-11e8-82ce-0ccd0aca1d6a.png)
 
-## Passo 3: copie e cole o código AR_Arduino (encontrado no repositório)!
+## Passo 3: copie e cole o código AR_Arduino 
+https://github.com/Rodrigo1426/Robo_Mapedor_Senac/blob/master/AR_Arduino.ino
 
 ## Passo 4: conecte todos os dispositivos à sua rede.
 
