@@ -52,7 +52,7 @@ Coloque os 2 compartilhamentos de pilha em cada lado do chassi, também fixos co
 Coloque os motores e as rodas conforme o manual.
 Fixe seu celular na parte de cima do 2° chassi com um enforca gato, ou com um tripé
 
-robo ![robo](https://user-images.githubusercontent.com/43183325/45571751-a412a000-b83d-11e8-82ce-0ccd0aca1d6a.png)
+ ![robo](https://user-images.githubusercontent.com/43183325/45571751-a412a000-b83d-11e8-82ce-0ccd0aca1d6a.png)
 
 ## Passo 3: copie e cole o código AR_Arduino (encontrado no repositório)!
 
