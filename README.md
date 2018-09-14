@@ -17,7 +17,6 @@ Wagner Bento Santo: PA
 3.)	A terceira cena permite que você controle o robô com seu computador usando as teclas de seta. O aplicativo usa um SDK de realidade aumentada para encontrar as paredes e o chão pelo aplicativo no smartphone, envia as informações para o Unity, e fornece uma representação digital do seu ambiente.
 (Somente Iphone)
   
-![Alt Text]  (https://github.com/Rodrigo1426/Robo_Mapedor_Senac/blob/master/Mapping_Room_bb.png)
   
 ## Peças
  
